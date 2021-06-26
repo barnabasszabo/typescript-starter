@@ -1,0 +1,1 @@
+# Super light typescript template for new nodejs project
